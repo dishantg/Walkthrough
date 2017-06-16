@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Walkthrough</string>
+    <string name="wt_1_title">FIND</string>
+    <string name="wt_2_title">COMPARE</string>
+    <string name="wt_3_title">DISCOVER</string>
+    <string name="wt_1_desc">the right companion for you and your family with our Breed Finder</string>
+    <string name="wt_2_desc">dogs breeds and get to know just the one right for you</string>
+    <string name="wt_3_desc">unknown breed of dogs with just a single click</string>
+</resources>
